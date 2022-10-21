@@ -1,0 +1,13 @@
+ul{
+    font-family: Arial ;
+    list-style: none;
+}
+.class1::marker,.class2::marker,.class3::marker,.class4::marker,.class5::marker,.class6::marker,.class7::marker,.class8::marker{
+    content: "🚘";
+}
+.class2:hover a,.class1:hover a,.class3:hover a,.class4:hover a,.class5:hover a,.class6:hover a,.class7:hover a,.class8:hover a{
+    color: skyblue;
+}
+ol{
+    list-style-type: upper-roman;
+}
